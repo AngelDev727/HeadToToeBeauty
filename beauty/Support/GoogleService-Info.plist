@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>516692342989-48fit4n9plc0t394601cinbu9b4olu9r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.516692342989-48fit4n9plc0t394601cinbu9b4olu9r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxIeRnXmhMRk-Cu9IMHX05evfCH9rjvjY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>516692342989</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dalton.headToToeBeauty</string>
+	<key>PROJECT_ID</key>
+	<string>headtotoebeauty</string>
+	<key>STORAGE_BUCKET</key>
+	<string>headtotoebeauty.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:516692342989:ios:6c4cb9ce6e1377863ad184</string>
+	<key>DATABASE_URL</key>
+	<string>https://headtotoebeauty.firebaseio.com</string>
+</dict>
+</plist>
